@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Database Administrator"
+  },
+  {
+    "id": 2,
+    "name": "Senior QA Analyst"
+  },
+  {
+    "id": 3,
+    "name": "Junior QA Analyst"
+  },
+  {
+    "id": 4,
+    "name": "Senior Web Designer"
+  },
+  {
+    "id": 5,
+    "name": "Junior Web Designer"
+  },
+  {
+    "id": 6,
+    "name": "Junior Web Developer"
+  },
+  {
+    "id": 7,
+    "name": "Senior Web Developer"
+  },
+  {
+    "id": 8,
+    "name": "Data Analyst"
+  },
+  {
+    "id": 9,
+    "name": "Junior Devops Engineer"
+  },
+  {
+    "id": 10,
+    "name": "Senior Devops Engineer"
+  },
+  {
+    "id": 11,
+    "name": "Network Administrator"
+  },
+  {
+    "id": 12,
+    "name": "Project Manager"
+  }
+]
