@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+C:\Users\dimal\Desktop\igti\BootcampProgramadorSoftwareIniciante\02-modulo-Java\aulas\.metadata\.plugins\org.eclipse.jdt.core
+547411604.index
+1431196946.index
+1522459250.index
+727216285.index
+766556315.index
+2841151180.index
+3021890852.index
+760091825.index
+2841934597.index
+1865797976.index
+3348568122.index
+655016386.index
+3413179858.index

@@ -1,0 +1,15 @@
+package pacoteAula_2_7;
+
+public class Aula2_7 {
+
+	public static void main(String[] args) {
+		
+		int idade = 30;
+		double altura = 1.81;
+		
+		System.out.println("idade : " + idade);
+		System.out.print("altura : " + altura);
+
+	}
+
+}

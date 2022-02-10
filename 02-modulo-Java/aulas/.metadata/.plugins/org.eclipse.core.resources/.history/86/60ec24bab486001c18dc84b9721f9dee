@@ -1,0 +1,21 @@
+package pacoteAula2_9;
+
+public class Aula2_9 {
+
+	public static void main(String[] args) {
+		
+		// x^2 + 12X - 13 = 0
+		// 2x^2 - 16x - 18 = 0
+		
+		double a, b, c;
+		a = 1;
+		b = 12;
+		c = -13;
+		
+		double delta = 0;
+		delta = (b * b) - (4 * a * c);
+		System.out.printf("O valor do delta é : %.2f\n", delta);
+
+	}
+
+}

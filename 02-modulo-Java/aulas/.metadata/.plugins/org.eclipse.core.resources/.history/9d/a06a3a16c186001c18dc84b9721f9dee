@@ -1,0 +1,21 @@
+package pacoteAula2_11;
+
+import java.math.*;
+
+public class Aula2_11 {
+
+	public static void main(String[] args) {
+		
+	boolean ult3EmprestQuitadosPrazo, possuiRendaComprovada, clienteDezEstrelas;
+	
+	ult3EmprestQuitadosPrazo = true;
+	possuiRendaComprovada = false;
+	clienteDezEstrelas = false;
+	
+	boolean concerderEmprestimo = 
+			ult3EmprestQuitadosPrazo && possuiRendaComprovada ||clienteDezEstrelas;
+	System.out.printf("Emprestimo concedido ? \n%b", concerderEmprestimo);
+	
+	}
+
+}

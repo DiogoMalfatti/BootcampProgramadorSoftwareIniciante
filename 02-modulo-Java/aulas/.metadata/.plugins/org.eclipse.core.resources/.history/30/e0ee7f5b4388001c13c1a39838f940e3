@@ -1,0 +1,15 @@
+package pacoteAula3_7;
+
+import java.util.Scanner;
+
+public class Aula3_7 {
+
+	public static void main(String[] args) {
+		
+		char operacao = ' ';
+		double n1 = 0, n2 = 0;
+		Scanner ent = new Scanner(System.in);
+
+	}
+
+}

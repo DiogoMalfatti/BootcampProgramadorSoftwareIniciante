@@ -1,0 +1,46 @@
+package pacoteAula3_7;
+
+import java.util.Scanner;
+
+public class Aula3_7 {
+
+	public static void main(String[] args) {
+		
+		char operacao = ' ';
+		double n1 = 0, n2 = 0;
+		double total;
+		Scanner ent = new Scanner(System.in);
+		
+		System.out.println("Digite o valor do primeiro numero: ");
+		n1 = ent.nextInt();
+		
+		System.out.println("Digite o valor do segundo numero: ");
+		n2 = ent.nextInt();
+		
+		ent.nextLine();
+		System.out.println("Digite a operação desejada ( +, -, *, /, % )");
+		operacao = ent.nextLine().charAt(0);
+		
+		switch (operacao) {
+			case '+' :
+				total = n1 + n2;
+				break;
+			case '-' :
+				total = n1 - n2;
+				break;
+			case '*' :
+				total = n1 * n2;
+				break;
+			case '/' :
+				total = n1 / n2;
+				break;
+			case '%' :
+				total = n1 % n2;
+				break;
+			default:
+				System.out.println("operação inválida !");
+		}
+
+	}
+
+}
